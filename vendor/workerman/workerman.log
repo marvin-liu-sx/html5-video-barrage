@@ -1,0 +1,66 @@
+2017-08-08 07:12:59 Error: Class 'Workerman\MySQL\Connection' not found in D:\WWW\danmu\start_io.php:66
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#1 D:\WWW\danmu\vendor\workerman\workerman\Connection\TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), Array)
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #57)
+#3 D:\WWW\danmu\vendor\workerman\workerman\Events\Select.php(286): call_user_func_array(Array, Array)
+#4 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(856): Workerman\Events\Select->loop()
+#5 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(473): Workerman\Worker->run()
+#6 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(382): Workerman\Worker::runAllWorkers()
+#7 D:\WWW\danmu\start.php(29): Workerman\Worker::runAll()
+#8 {main}
+2017-08-08 07:14:03 Error: Class 'Connection' not found in D:\WWW\danmu\start_io.php:66
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#1 D:\WWW\danmu\vendor\workerman\workerman\Connection\TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), Array)
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #58)
+#3 D:\WWW\danmu\vendor\workerman\workerman\Events\Select.php(286): call_user_func_array(Array, Array)
+#4 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(856): Workerman\Events\Select->loop()
+#5 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(473): Workerman\Worker->run()
+#6 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(382): Workerman\Worker::runAllWorkers()
+#7 D:\WWW\danmu\start.php(29): Workerman\Worker::runAll()
+#8 {main}
+2017-08-08 07:14:39 Error: Class 'Workerman\MySQL\Connection' not found in D:\WWW\danmu\start_io.php:66
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#1 D:\WWW\danmu\vendor\workerman\workerman\Connection\TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), Array)
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #58)
+#3 D:\WWW\danmu\vendor\workerman\workerman\Events\Select.php(286): call_user_func_array(Array, Array)
+#4 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(856): Workerman\Events\Select->loop()
+#5 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(473): Workerman\Worker->run()
+#6 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(382): Workerman\Worker::runAllWorkers()
+#7 D:\WWW\danmu\start.php(29): Workerman\Worker::runAll()
+#8 {main}
+2017-08-08 07:15:11 Error: Class 'Workerman\MySQL\Connection' not found in D:\WWW\danmu\start_io.php:66
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#1 D:\WWW\danmu\vendor\workerman\workerman\Connection\TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), Array)
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #54)
+#3 D:\WWW\danmu\vendor\workerman\workerman\Events\Select.php(286): call_user_func_array(Array, Array)
+#4 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(856): Workerman\Events\Select->loop()
+#5 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(473): Workerman\Worker->run()
+#6 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(382): Workerman\Worker::runAllWorkers()
+#7 D:\WWW\danmu\start.php(29): Workerman\Worker::runAll()
+#8 {main}
+2017-08-08 07:16:47 Error: Class 'Connection' not found in D:\WWW\danmu\start_io.php:66
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#1 D:\WWW\danmu\vendor\workerman\workerman\Connection\TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), Array)
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #57)
+#3 D:\WWW\danmu\vendor\workerman\workerman\Events\Select.php(286): call_user_func_array(Array, Array)
+#4 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(856): Workerman\Events\Select->loop()
+#5 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(473): Workerman\Worker->run()
+#6 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(382): Workerman\Worker::runAllWorkers()
+#7 D:\WWW\danmu\start.php(29): Workerman\Worker::runAll()
+#8 {main}
+2017-08-08 07:17:01 Error: Class 'Connection' not found in D:\WWW\danmu\start_io.php:66
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#1 D:\WWW\danmu\vendor\workerman\workerman\Connection\TcpConnection.php(480): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), Array)
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #57)
+#3 D:\WWW\danmu\vendor\workerman\workerman\Events\Select.php(286): call_user_func_array(Array, Array)
+#4 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(856): Workerman\Events\Select->loop()
+#5 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(473): Workerman\Worker->run()
+#6 D:\WWW\danmu\vendor\workerman\workerman\Worker.php(382): Workerman\Worker::runAllWorkers()
+#7 D:\WWW\danmu\start.php(29): Workerman\Worker::runAll()
+#8 {main}
